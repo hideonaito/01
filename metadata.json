@@ -1,0 +1,5 @@
+{
+  "name": "Image to PDF Converter",
+  "description": "An application to upload multiple image files and convert them into a single PDF document. Each image is placed on a separate page with its filename and a page number.",
+  "requestFramePermissions": []
+}
